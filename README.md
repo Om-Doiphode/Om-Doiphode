@@ -5,14 +5,14 @@
 
 ### <div align="center">I'm Om Doiphode 👨‍💻 🚀</div>  
   
-
-- 🌱 I’m currently learning Deep Learning and Web-Dev Frameworks  
   
+- 🌱 I’m currently learning Deep Learning and Web-Dev Frameworks
+- ❓ Ask me about anything related to Computer Vision and ML
+- 📚 Check out my ![blogs](https://om-doiphode.github.io/)
+- 📄 Know about my experiences ![Resume](https://drive.google.com/file/d/1GhMVVNpEAB5K6Q3V6Bv9eyi5JBzss8eO/view?usp=sharing)
+- ⚡ Fun fact: I use tabs over spaces
 
-- ❓ Ask me about anything related to Computer Vision and ML  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
