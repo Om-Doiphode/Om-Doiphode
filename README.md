@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Deep Learning and Web-Dev Frameworks
 - ❓ Ask me about anything related to Computer Vision and ML
 - 📚 Check out my [blogs](https://om-doiphode.github.io/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GhMVVNpEAB5K6Q3V6Bv9eyi5JBzss8eO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fd5gqGFxUXnbN6dJWbu7qnmzVeDca_pT/view?usp=sharing)
 - ⚡ Fun fact: I use tabs over spaces
 
 
